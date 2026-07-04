@@ -1,0 +1,72 @@
+PIXEL ABYSS CUSTOM LICENSE
+Copyright (c) 2024 Blessing Machekeche / BLEMAC
+All Rights Reserved.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PERMITTED USES
+━━━━━━━━━━━━━━
+✔  You MAY view, study, and run this software for personal,
+   educational, or non-commercial purposes.
+
+✔  You MAY fork or clone this repository on GitHub for the
+   purpose of reviewing the code or submitting a collaboration
+   request.
+
+✔  You MAY contribute to this project ONLY after receiving
+   explicit written permission from the copyright holder.
+   Approved contributors must follow the contribution
+   guidelines provided at time of approval.
+
+PROHIBITED USES
+━━━━━━━━━━━━━━━
+✘  You MAY NOT redistribute, publish, or share this software
+   (in original or modified form) without prior written
+   consent from Blessing Machekeche / BLEMAC.
+
+✘  You MAY NOT modify, adapt, translate, or create derivative
+   works based on this software for distribution — publicly,
+   commercially, or privately — without explicit written
+   permission.
+
+✘  You MAY NOT use the name "PIXEL ABYSS", the BLEMAC brand,
+   or any associated assets for promotion, resale, or
+   repackaging without consent.
+
+✘  You MAY NOT sublicense or transfer these rights to any
+   third party.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+COLLABORATION REQUESTS
+━━━━━━━━━━━━━━━━━━━━━━
+Blessing Machekeche welcomes collaboration on PIXEL ABYSS.
+To request collaboration access, please reach out via:
+
+  GitHub  :  https://github.com/tech-with-blessing
+  Facebook:  PythonProjects
+
+All collaboration requests will be reviewed personally.
+Approval grants a limited, non-transferable, revocable
+licence to contribute under the terms agreed upon in writing.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THIRD-PARTY ASSETS & ACKNOWLEDGEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+This project makes use of third-party assets and references.
+Their respective licenses and terms govern their use within
+this project. See CREDITS.md for full attribution details.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISCLAIMER
+━━━━━━━━━━
+This software is provided "as is", without warranty of any
+kind. The author shall not be liable for any damages arising
+from the use of this software.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+For licensing enquiries, contact Blessing Machekeche via the
+links listed above.
